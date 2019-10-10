@@ -1,0 +1,4 @@
+<resources>
+    <string name="dti_api" translatable="false">http://localhost:8080/dti-api/</string>
+    <bool name="uses_cleartext_traffic">false</bool>
+</resources>

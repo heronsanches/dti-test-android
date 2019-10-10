@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">dti test</string>
+
+    <string name="action_login">Entrar</string>
+    <string name="action_register">Cadastrar</string>
+    <string name="error_email_invalid">Email inválido.</string>
+    <string name="error_login">Usuário ou senha incorreto.</string>
+    <string name="error_password_invalid">Senha deve ter no mínimo 6 e no máximo 28
+        caracteres.</string>
+    <string name="error_register">Serviço indisponível no momento. Tente novamente mais tarde.</string>
+    <string name="error_server_connection">Não foi possível processar sua solicitação. Verique a conexão
+        com a Internet e/ ou tente mais tarde.</string>
+    <string name="error_server_runtime">Ocorreu um erro inesperado, por favor contacte o
+        administrador do sistema.</string>
+    <string name="hint_login_user">Email</string>
+    <string name="hint_login_password">Senha</string>
+    <string name="msg_welcome">%1s receba as boas vindas da %2s!</string>
+</resources>
